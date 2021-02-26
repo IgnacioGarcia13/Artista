@@ -1,0 +1,71 @@
+
+footer {
+        clear: both;
+        text-align: center
+    }
+
+aside {
+        background-color: violet;
+        text-align: center;
+        width: 350px;
+        margin-bottom: 85px;
+        border-radius: 20px;
+        float: right;
+
+    }
+
+p {
+        color: whitesmoke;
+        font-size: 20px;
+
+    }
+
+h3 {
+        color: whitesmoke;
+        font-size: 35px;
+    }
+
+
+h2 {
+        color: whitesmoke;
+        padding-bottom: 25px;
+        font-size: 35px;
+    }
+
+body {
+        background-image: url(https://pbs.twimg.com/media/DlpiJg-UwAEwLkQ.jpg:large);
+        background-size: 2070px;
+        
+
+
+    }
+
+nav {
+        background-color: violet;
+        text-align: center;
+        color: whitesmoke;
+    }
+
+nav ul li {
+        display: inline
+    }
+
+table {
+        background-color: violet;
+        border-radius: 20px;
+        text-align: center;
+        color: whitesmoke;
+        float: right;
+    }
+
+.box{
+    width: 15px;
+    margin: 70px 10px 50px 10px;
+    height: 100px;
+    display: inline-block;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+

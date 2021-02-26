@@ -1,0 +1,64 @@
+footer {
+    clear: both;
+    text-align: center
+}
+
+p {
+    color: whitesmoke;
+    font-size: 20px;
+
+}
+
+h3 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+h2 {
+    color: whitesmoke;
+}
+
+body {
+    background-image: url(https://pbs.twimg.com/media/DlpiJg-UwAEwLkQ.jpg:large);
+    background-size: 2000px;
+    
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+
+}
+
+nav {
+    background-color: violet;
+    text-align: center;
+    color: whitesmoke;
+}
+
+nav ul li {
+    display: inline
+}
+
+table {
+    background-color: violet;
+    border-radius: 20px;
+    text-align: center;
+    color: whitesmoke;
+    float: left;
+    margin-top: 60px;
+}
+
+aside{
+    float: right;
+}
+
+iframe{
+    display: block;
+    margin: 15px;
+    border: none;
+    width: 850px;
+}
